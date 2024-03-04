@@ -1,0 +1,13 @@
+{
+  "name": "MATLAB",
+  "version": "0.0.1",
+  "authors": ["Ruben Zukic <ruben@zukic.net>"],
+  "description": "MATLAB syntax highlighting for Zed",
+  "repository": "https://github.com/rzukic/zed-matlab",
+  "languages": {
+    "MATLAB": "languages/matlab"
+  },
+  "grammars": {
+    "matlab": "grammars/matlab.wasm"
+  }
+}
